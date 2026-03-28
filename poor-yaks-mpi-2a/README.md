@@ -40,3 +40,6 @@ https://www.amazon.com/MTYTOT-Adapter-100V-240V-Converter-Security/dp/B0BV64MHY6
 This schematic has no surface mount components and needs no assembly by
 the PCB maker.  But you'll have to get your own 40-pin edgecard sockets
 and your own pin headers, and solder them on.
+
+You can get 40-pin edgecard sockets from here:
+https://www.amazon.com/dp/B0BPP35SRC
